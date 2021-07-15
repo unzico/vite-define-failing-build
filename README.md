@@ -6,8 +6,8 @@ The define plugin of vite is replacing code inside node_modules, which can lead 
 
 1. `yarn`
 1. `yarn build` -> fails
-1. uncommend line 9 in `vite.config.ts`
-1. `yarn build` -> not failing
+1. uncomment line 9 in `vite.config.ts`
+1. `yarn build` -> doesn't fail
 
 ## Explanation
 
