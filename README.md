@@ -3,6 +3,7 @@
 The define plugin of vite is replacing code inside node_modules, which can lead to failing builds.
 
 Tracked in https://github.com/vitejs/vite/issues/4271
+Fixed in https://github.com/vitejs/vite/pull/5515
 
 ## Reproduce the issue
 
